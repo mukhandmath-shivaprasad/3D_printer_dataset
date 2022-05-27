@@ -1,2 +1,5 @@
 # 3D_printer_dataset
-Finding the strength of 3d printed component
+
+The objective of this work is to 
+
+Find the strength of 3d printed component
