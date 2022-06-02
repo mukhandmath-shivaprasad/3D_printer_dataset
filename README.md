@@ -1,4 +1,4 @@
-# 3D_printer_dataset
+# 3D_printer_dataset_ Model Fitting
 
 The objective of this work is to 
 
